@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Let's talk about this website!
-subheading: A awesome static site generator.
-author: Jeffrey
-categories: jekyll
+subheading: Why, How and the future!
+author: Jnanadarshan
+categories: thoughts
 banner:
   video: https://vjs.zencdn.net/v/oceans.mp4
   loop: true
@@ -16,7 +16,7 @@ banner:
   min_height: "38vh"
   heading_style: "font-size: 4.25em; font-weight: bold; text-decoration: underline"
   subheading_style: "color: gold"
-tags: jekyll theme yat
+tags: #about #goals #buildingablog
 sidebar: []
 ---
 
