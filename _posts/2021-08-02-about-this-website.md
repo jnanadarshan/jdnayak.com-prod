@@ -16,59 +16,16 @@ banner:
   min_height: "38vh"
   heading_style: "font-size: 4.25em; font-weight: bold; text-decoration: underline"
   subheading_style: "color: gold"
-tags: #about #goals #buildingablog
+tags: [about, goals, buildingablog]
 sidebar: []
 ---
 
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+This website has existed in various forms since 2012, when I finally discovered how to build and deploy websites without spending any money on hosting. Till date I have never spent any money on hosting my websites (though AWS charges few Rupees for the static files I host). This website has always been a combination of my blog and CV for years. Now that I have full fledged blog [jnan.co](https://jnan.co) for thoughtful blogging, I always missed a place to put random thoughts and talk about all the interesting DIY stuff that I do. Finally I have decided to give this website another chance as a frequent blog with less formal content. Let's see how this goes.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+## How this website is hosted for free?
 
-## section 1
+Many people still think that one needs to have a hosting service in order to host their websites. While that is true for enterprises and anyone wanting to run full scale websites with user accounts, web apps and dynamic content vast majority of general users will be fine with `static` websites. I would highly encourage any person interested in having a web presence should start reading about `static` web pages, `jekyll`, `github pages` and AWS `S3` website hosting. 
 
-Jekyll also offers powerful support for code snippets:
+I have learned a lot over the years and someday I intend to put a super simple step by step guide on how to get started with a simple blog or website. This is a time consuming and future project and also there are plenty of resources already available on the web regarding how to create a website and host it on `Github pages` or `Amazon S3` for free or at dirt cheap rates.
 
-{% highlight ruby %}
-def print_hi(name)
-puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-## section 2
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]: https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
-
-$ a \* b = c ^ b $
-
-$ 2^{\frac{n-1}{3}} $
-
-$ \int_a^b f(x)\,dx. $
-
-```cpp
-#include <iostream>
-using namespace std;
-
-int main() {
-  cout << "Hello World!";
-  return 0;
-}
-// prints 'Hi, Tom' to STDOUT.
-```
-
-```python
-class Person:
-  def __init__(self, name, age):
-    self.name = name
-    self.age = age
-
-p1 = Person("John", 36)
-
-print(p1.name)
-print(p1.age)
-```
+*this will be updated regularly.....
