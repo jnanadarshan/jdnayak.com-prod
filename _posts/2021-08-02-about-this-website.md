@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Welcome to Jekyll!
+title: Let's talk about this website!
 subheading: A awesome static site generator.
 author: Jeffrey
 categories: jekyll

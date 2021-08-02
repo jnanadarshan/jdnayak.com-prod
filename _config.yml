@@ -24,7 +24,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Jnanadarshan Nayak | Management Consultant, DYI Enthusiast, Tech Geek
+title: "Jnanadarshan Nayak | Management Consultant, DYI Enthusiast, Tech Geek"
 email: web-feedback@jdnayak.com
 author: Jnanadarshan Nayak
 
