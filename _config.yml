@@ -24,7 +24,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: "Jnanadarshan Nayak | Management Consultant, DYI Enthusiast, Tech Geek"
+title: "Jnanadarshan Nayak"
 email: web-feedback@jdnayak.com
 author: Jnanadarshan Nayak
 
@@ -141,12 +141,12 @@ yat:
 
 # If you want to link only specific pages in your header, uncomment
 # this and add the path to the pages in order as they should show up
-# header_pages:
-#  - about.md
-#   - index.html
-#   - archives.html
-#   - categories.html
-#   - tags.html
+ header_pages:
+  - about.md
+   - index.html
+   - archives.html
+   - categories.html
+   - tags.html
    
 # Page default value
 # defaults:
