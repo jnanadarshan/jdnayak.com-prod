@@ -56,7 +56,7 @@ function smoothScrollTo(y, time) {
   }
 }
 
-// Only trigger if service workers are supported in browser. CUstom PWA Code
+// Only trigger if service workers are supported in browser. CUstom PWA Code added
 if ('serviceWorker' in navigator) {
   // Wait until window is loaded before registering.
   window.addEventListener('load', () => {
