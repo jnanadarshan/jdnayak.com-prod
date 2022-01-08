@@ -6,7 +6,7 @@ categories: markdown
 tags: [test]
 ---
 
-Everyone thinks websites are costly. To some extent they are but not this kind. There are two kinds of websites, static and dyamic. This is a site that's kind of hybrid. A dynamically built website served on site.
+Everyone thinks websites are costly. To some extent they are but not this kind. There are two kinds of websites, static and dyamic. This is a site that's kind of hybrid. A dynamically built website served on site
 * A safe integer is an integer that
   * can be exactly represented as an IEEE-754 double precision number, and
   * whose IEEE-75 representation cannot be the result of rounding any other integer to fit the IEEE-754 representation
