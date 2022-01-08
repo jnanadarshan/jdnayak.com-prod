@@ -1,0 +1,9 @@
+{
+  "name": "JDNayak.com",
+  "short_name": "JDNayak.com",
+  "theme_color": "#0b90fa",
+  "background_color": "#2391e8",
+  "display": "browser",
+  "scope": "/",
+  "start_url": "/"
+}
